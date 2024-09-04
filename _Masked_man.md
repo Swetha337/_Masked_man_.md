@@ -1,5 +1,5 @@
 # **misc**
-# * _Masked_man_*
+# *_Masked_man_*
 STEPS TO FOLLOW: <br/>
 •	We were provided with an audio file as part of the challenge. <br/>
 •	To extract the hidden information, we uploaded the file to a tool called Audacity. <br/> 
