@@ -1,4 +1,4 @@
-# **misc**
+# **MISC**
 # *_Masked_man_*
 STEPS TO FOLLOW: <br/>
 •	We were provided with an audio file as part of the challenge. <br/>
